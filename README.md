@@ -6,7 +6,7 @@
 <b>• About the project:</b>
 This project is a web-based application that helps users plan their solar power usage and estimate the duration of power backup during the monsoon season. It allows users to input their daily appliance usage, calculates the total energy consumption, and provides optimization suggestions to extend the power backup duration. The project aims to assist users in making informed decisions about their energy usage and maximize the benefits of solar power systems.
 
-• <b>Skills and Technology used:<b/>
+• <b>Skills and Technology used:</b>
 The project utilizes web development technologies including HTML, CSS, and JavaScript. 
 
 • <b>Impact on Real-world problem solving:</b>
